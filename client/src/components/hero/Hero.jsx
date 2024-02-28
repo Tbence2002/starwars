@@ -12,7 +12,7 @@ function Hero() {
             <div className="w-full h-screen min-h-[900px] bg-hero-background bg-cover bg-center bg-hero-background-layer absolute z-10"></div>
             <div className="text-white text-center mt-40">
                 <motion.h1 className="text-6xl mb-10 lg:mb-16 lg:text-9xl" style={{ y: yFirstText }}>Quantelligen</motion.h1>
-                <motion.p className="text-3xl lg:text-5xl" style={{ y: ySecondText }}>Próbafeladat - Star Wars</motion.p>
+                <motion.p className="text-3xl lg:text-5xl" style={{ y: ySecondText }}>Star Wars</motion.p>
             </div>
         </div>
     )
